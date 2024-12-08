@@ -11,7 +11,7 @@
     {
       "js": ["content_scripts/index.js"],
       "matches": [
-        "file:///*"
+        "file://*"
       ]
     }
   ]
